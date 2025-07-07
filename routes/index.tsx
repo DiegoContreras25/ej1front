@@ -1,6 +1,5 @@
 import { useSignal } from "@preact/signals";
 import Counter from "../islands/Counter.tsx";
-import { Char } from "../components/char.tsx";
 import { Chars } from "../components/Chars.tsx";
 import { Character } from "../types.ts";
 import type { FreshContext, Handlers, PageProps } from "$fresh/server.ts";

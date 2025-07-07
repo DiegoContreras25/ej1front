@@ -1,5 +1,5 @@
 import { FreshContext, Handlers, type PageProps } from "$fresh/server.ts";
-import { Char } from "../../components/char.tsx";
+import { Char } from "../../components/Char.tsx";
 import {Character} from "../../types.ts"
 
 

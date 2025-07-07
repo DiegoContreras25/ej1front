@@ -1,6 +1,6 @@
 import { Component, type FunctionalComponent } from "preact";
 import type { Character } from "../types.ts";
-import { Char } from "./char.tsx";
+import { Char } from "./Char.tsx";
 
 
 
